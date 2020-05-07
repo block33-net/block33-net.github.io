@@ -1,4 +1,10 @@
 Some text
 
 <div id="textx"></div>
-<script>document.getElementById("textx").innerHTML = "Text added by JavaScript code";</script>
+<script>
+  fetch('https://mcapi.us/server/status?ip=mc.block33.net')
+    .then(response => response.json())
+    .then(data => {
+		document.getElementById("textx").innerHTML = data.online ? "online" : "offline";
+    });
+</script>
