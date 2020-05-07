@@ -2,11 +2,11 @@ Some text
 
 <div>
 	<div>
-		<span>Status:</span> <span id="status"></span>
+		<span>Состояние:</span> <span id="status"></span>
 	</div>
 	<div>
-		<span>Players:</span> <span id="players"></span>
-	</div>
+		<span>Активных игроков:</span> <span id="players"></span>
+	</div>	
 	<ol id="players-list">
 
 	</ol>
