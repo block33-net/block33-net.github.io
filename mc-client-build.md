@@ -10,11 +10,11 @@
 
 ### Конструирование клиента с модами
 
-1. скачать [forge-1.12.2-14.23.5.2847-installer-win.exe](http://files.block33.net.s3-website-us-west-2.amazonaws.com/forge-1.12.2-14.23.5.2847-installer-win.exe ), запустить и кликнуть OK.
+1. скачать [forge-1.12.2-14.23.5.2847-installer-win.exe](http://files.block33.net/forge-1.12.2-14.23.5.2847-installer-win.exe ), запустить и кликнуть OK.
 
    ![](forge-client-installer.png)
 
-2. скачать [архив с модами](), распаковать в каталог с майнкрафтом (обычно это что то вроде C:\Users\Stepan_Hashchyshyn\AppData\Roaming\\.minecraft). В результате в папке .minecraft должна появиться папка "mods" c файлами .jar внутри.
+2. скачать [архив с модами]( http://files.block33.net/mods.zip ), распаковать в каталог с майнкрафтом (обычно это что то вроде C:\Users\Stepan_Hashchyshyn\AppData\Roaming\\.minecraft). В результате в папке .minecraft должна появиться папка "mods" c файлами .jar внутри.
 
    
 
