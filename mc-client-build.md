@@ -16,9 +16,13 @@
 
 2. скачать [архив с модами]( http://files.block33.net/mods.zip ), распаковать в каталог с майнкрафтом (обычно это что то вроде C:\Users\Stepan_Hashchyshyn\AppData\Roaming\\.minecraft). В результате в папке .minecraft должна появиться папка "mods" c файлами .jar внутри.
 
-   
+3. создать дополнительную сборку в клиенте. Здесь же можно задать параметры для оперативной памяти чтобы улучшить производительность.
 
-3. запустить Minecraft и увидеть характерные надписи в нижнем левом углу сигнализирующие о наличии модов.
+   ![](C:\block33\block33-net.github.io\assets\images\create-new-installation.jpg)
+
+   ![](C:\block33\block33-net.github.io\assets\images\select-forge-during-installation-creation.jpg)
+
+4. запустить Minecraft и увидеть характерные надписи в нижнем левом углу сигнализирующие о наличии модов.
 
    
 
