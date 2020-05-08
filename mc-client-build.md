@@ -18,9 +18,9 @@
 
 3. создать дополнительную сборку в клиенте. Здесь же можно задать параметры для оперативной памяти чтобы улучшить производительность.
 
-   ![](C:\block33\block33-net.github.io\assets\images\create-new-installation.jpg)
+   ![](assets/images/create-new-installation.jpg)
 
-   ![](C:\block33\block33-net.github.io\assets\images\select-forge-during-installation-creation.jpg)
+   ![](assets/images/select-forge-during-installation-creation.jpg)
 
 4. запустить Minecraft и увидеть характерные надписи в нижнем левом углу сигнализирующие о наличии модов.
 
