@@ -5,6 +5,9 @@ B33 это долгосрочный бесплатный приватный Mine
 
 <div>
 	<div>
+		<span>Сервер:</span> <span id="server">mc.block33.net</span>
+	</div>
+	<div>
 		<span>Состояние:</span> <span id="status"></span>
 	</div>
 	<div>
