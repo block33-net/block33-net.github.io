@@ -4,35 +4,33 @@
 
 ### Крупные
 
-- OpenComputers
+- [OpenComputers]( https://www.curseforge.com/minecraft/mc-mods/opencomputers )
 
-- Railcraft
+- [Railcraft]( https://www.curseforge.com/minecraft/mc-mods/railcraft )
 
-- BiblioCraft
+- [BiblioCraft]( https://www.curseforge.com/minecraft/mc-mods/bibliocraft )
 
-- Buildcraft
+- [Buildcraft]( https://www.curseforge.com/minecraft/mc-mods/buildcraft )
 
-- Forestry
+- [Forestry]( https://www.curseforge.com/minecraft/mc-mods/forestry )
 
-- Industrial Craft 2
+- [Industrial Craft 2]( https://www.curseforge.com/minecraft/mc-mods/industrial-craft )
 
-- Jei
+- [Jei]( https://www.curseforge.com/minecraft/mc-mods/jei )
 
-- RTG
+- [RTG]( https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation )
 
-- AdLods
+- [AdLods]( https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits )
 
-- WorldProtector
+- [WorldProtector]( https://www.curseforge.com/minecraft/mc-mods/worldprotector )
 
 
 
 ### Мелкие
 
-- EatTheEggs
-
-- MCV Bridges
-
-- Moving Elevators
-
-- Bountiful
+- [EatTheEggs]( https://www.curseforge.com/minecraft/mc-mods/eat-the-eggs )
+- [MCV Bridges]( https://www.curseforge.com/minecraft/mc-mods/macaws-bridges )
+- [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
+- [Bountiful]( https://www.curseforge.com/minecraft/mc-mods/bountiful )
+- [Signpost]( https://www.curseforge.com/minecraft/mc-mods/signpost )
 
